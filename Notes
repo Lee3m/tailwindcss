@@ -1,1 +1,2 @@
-// CUstom Stlye in tailwin.config.js, run npm run build-css
+// CUstom Stlye in tailwin.config.js
+// @apply in css - use it to remove too much style on classes
